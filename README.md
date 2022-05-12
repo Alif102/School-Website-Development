@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+click to view: https://alif102.github.io/School-Website-Development/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
